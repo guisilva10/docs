@@ -4,8 +4,8 @@
   "name": "LAB NDA",
   "colors": {
     "primary": "#00AFEF",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#00AFEF",
+    "dark": "#00AFEF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
